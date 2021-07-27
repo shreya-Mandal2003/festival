@@ -1,0 +1,187 @@
+.back{
+    background-image: url("f1.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+.style{
+    padding-left: 5px;
+    padding-top: 60px;
+    color: rgba(252, 247, 243, 0.938);
+    text-shadow: brown 5px 5px 5px;
+    font-weight:bolder;;
+}
+.style1{
+    text-shadow: rgba(7, 3, 7, 0.973) 5px 5px 5px;
+}
+.kal{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.durga{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.bhai{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.holi{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.lax{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.rakhi{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.ganesh{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+.poila{
+    box-shadow: 0 1rem 1.25rem 0  rgba(85, 68, 71, 0.575) inset;
+}
+
+.ss{
+    font-size: 20px;
+    font-weight:400;
+    color: floralwhite;
+    text-shadow: rgb(87, 23, 87) 5px 5px 5px;
+}
+.kal:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+   
+}
+.durga:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.bhai:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.holi:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.lax:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.rakhi:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.ganesh:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.poila:hover{
+    box-shadow: 0 1rem 1.25rem 0  rgba(29, 5, 9, 0.932) inset;
+}
+.back1{
+    background-image: url("d4.jpg");
+background-size: cover;
+}
+.st{
+    position: relative;
+    border:none;
+    height: 5px;
+    background:black;
+    margin-bottom: 20px;
+}
+.style2{
+    font-style: italic;
+    color: crimson;
+    text-shadow: gold 5px 5px 5px;
+    padding-left: 30px;
+}
+.st1{
+    border: dotted none none;
+    width: 400px;
+}
+.img{
+    opacity: 0.5;
+}
+.img:hover{
+    opacity: 1;
+  filter: brightness(1.5);
+
+}
+.back2{
+    background-image: url("k5.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+.back3{
+    background-image: url("b4.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+.back4{
+    background-image: url("h5.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+.back5{
+    background-image: url("l6.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+.back6{
+    background-image: url("r4.jpg");
+    height:100%;
+    width:100%;
+ background-size: cover;
+}
+
+.style3:hover{
+    box-shadow:0rem 1rem 1rem 1rem rgba(0, 0, 0, 0.199) ;
+    
+}
+.back7{
+    background-image: url("co1.jpg");
+    height:100%;
+    width:100%;
+    top: 0;
+    bottom: 0;
+    left:0;
+    right:0;
+    z-index: index -1;
+    background-size: cover;
+    display:block;
+    
+}
+.form-box{
+    background-color:rgba(0,0,0,0.3);
+    margin:auto auto;
+    padding:40px;
+    border-radius:5px;
+    box-shadow:0 0 10px #000;
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    left:0;
+    right:0;
+    width:500px;
+    height:430px;
+
+}
+.btn1{
+    cursor:pointer;
+    position:relative;
+    padding:0.5rem 2rem;
+    border-radius: 3.75rem;
+    line-height: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+    border: 1px solid black;
+    background-image: linear-gradient(-180deg,white 0% rgb(250, 234, 6) 100%);
+    box-shadow: 0 1rem 1.25rem 0 #d8ba11ee inset;
+}
+.btn1:hover{
+    background-image: linear-gradient(-180deg,white 0% rgb(117, 111, 22) 100%);
+    box-shadow: 0 1rem 1.25rem 0 #ac9b08fb inset;
+}
+.mar{
+    color: rgb(235, 117, 20);
+    font-weight: 20px;
+    text-shadow: rgb(245, 184, 110) 5px 5px 5px;
+}
+
+
